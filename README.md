@@ -20,6 +20,6 @@ A project built on React.
 
 ![tic-tac-toe](https://user-images.githubusercontent.com/46663132/200551576-9e4607c5-16e3-4ef9-bd95-478879a77ba6.png)
 
-```If you like this project give it a star
+If you like this project give it a star
 
 Thank You!
